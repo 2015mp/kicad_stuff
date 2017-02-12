@@ -1,3 +1,6 @@
 [submodule "extlibs/combo/openprojectkicadlibrary"]
 	path = extlibs/combo/openprojectkicadlibrary
 	url = https://github.com/open-project/kicadlibrary.git
+[submodule "extlibs/3d/sub_smisioto_eu_kicad"]
+	path = extlibs/3d/sub_smisioto_eu_kicad
+	url = git://smisioto.eu/kicad_libs.git
