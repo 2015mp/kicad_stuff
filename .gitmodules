@@ -1,0 +1,3 @@
+[submodule "extlibs/combo/openprojectkicadlibrary"]
+	path = extlibs/combo/openprojectkicadlibrary
+	url = https://github.com/open-project/kicadlibrary.git
